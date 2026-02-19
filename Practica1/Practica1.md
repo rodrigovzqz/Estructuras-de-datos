@@ -93,7 +93,7 @@ Bibliografía: (N.d.). Stackshare.Io. Retrieved February 19, 2026, from https://
         Haskell tiene un ecosistema más pequeño, pero su comunidad destaca por un enfoque riguroso en la calidad y la corrección lógica, siendo la opción preferida en dominios como la verificación formal y el modelado matemático.
 
 
-Bibliografía: (N.d.). Stackshare.Io. Retrieved February 19, 2026, from https://stackshare.io/stackups/haskell-vs-racket
+Bibliografía: (N.d.). Stackshare.Io. Retrieved February 19, 2026, from https://stackshare.io/stackups/haskell-vs-java
 
 
 
